@@ -23,10 +23,17 @@ So, as a user of CAD software such as Fusion 360 and SolidWorks, most of the tim
 
 ---
 # BOM :
+
 1 SEED XIAO RP2040 (through-hole version)
+
 1 0.91 inch 128*32 OLED Display
+
 16 MX switches
+
 16 DSA Keycaps
+
 16 1N4148 Diodes
+
 5 M3-16 screws
+
 5 M3 heatset inserts
